@@ -3,7 +3,7 @@
   "description": "Responsive open source admin dashboard and control panel.",
   "version": "4.0.0-alpha3",
   "license": "MIT",
-  "author": "Colorlib <https://colorlib.com>",
+  "author": "Ladybird",
   "main": "dist/js/adminlte.min.js",
   "scripts": {
     "dev": "npm-run-all --parallel watch docs-serve",
